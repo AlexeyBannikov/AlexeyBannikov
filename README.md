@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-An ordinary guy from a small town who is fond of programming 
-<br/>
 I am always open to new acquaintances and communication
 
 ✉️  You can contact me at [alexeybannikov1@gmail.com](mailto:alexeybannikov1@gmail.com)
